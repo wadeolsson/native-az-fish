@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>LaMilagrosaFish.kml</name>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grn-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_grn-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_arrow">
+		<IconStyle>
+			<color>ff0700fc</color>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_grn-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_arrow">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_arrow</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_arrow</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grn-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grn-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_ltblu-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ltblu-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ltblu-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_grn-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_arrow">
+		<IconStyle>
+			<color>ff0700fc</color>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ltblu-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ltblu-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ltblu-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_grn-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>LaMilagrosaFish</name>
+		<open>1</open>
+		<Placemark>
+			<name>Possible fish location</name>
+			<LookAt>
+				<longitude>-110.7039004816118</longitude>
+				<latitude>32.30093579555096</latitude>
+				<altitude>0</altitude>
+				<heading>61.3306420597819</heading>
+				<tilt>59.99319158299986</tilt>
+				<range>237.0987665867038</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.7043076510347,32.30062025451996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sunfish site</name>
+			<LookAt>
+				<longitude>-110.6977230694039</longitude>
+				<latitude>32.30225200500327</latitude>
+				<altitude>0</altitude>
+				<heading>61.33394493815558</heading>
+				<tilt>60.00062578642643</tilt>
+				<range>80.23351480209524</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6977032271739,32.30236680129199,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Longfin Dace site</name>
+			<LookAt>
+				<longitude>-110.6971613100463</longitude>
+				<latitude>32.30214220354259</latitude>
+				<altitude>0</altitude>
+				<heading>61.33422176768525</heading>
+				<tilt>58.99571779019068</tilt>
+				<range>118.6377956995798</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6973946816411,32.30234197799238,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible fish location</name>
+			<LookAt>
+				<longitude>-110.6835516492428</longitude>
+				<latitude>32.30581120411379</latitude>
+				<altitude>0</altitude>
+				<heading>65.03205928020114</heading>
+				<tilt>60.00248924427181</tilt>
+				<range>320.0032274435051</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6835516492428,32.30581120411379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible fish location</name>
+			<LookAt>
+				<longitude>-110.6727252968476</longitude>
+				<latitude>32.30142031714706</latitude>
+				<altitude>0</altitude>
+				<heading>84.9602411036432</heading>
+				<tilt>67.80020172851343</tilt>
+				<range>149.24373184269</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6729290882518,32.30113396372901,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sunfish source?</name>
+			<LookAt>
+				<longitude>-110.6611645288519</longitude>
+				<latitude>32.31441163052077</latitude>
+				<altitude>0</altitude>
+				<heading>84.96568217855143</heading>
+				<tilt>60.00217426620753</tilt>
+				<range>279.5281828845269</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ltblu-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6612759157252,32.31521814100217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible fish location</name>
+			<LookAt>
+				<longitude>-110.6694905807724</longitude>
+				<latitude>32.31457853355494</latitude>
+				<altitude>0</altitude>
+				<heading>34.35687027072674</heading>
+				<tilt>44.16412326500638</tilt>
+				<range>171.185368090615</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6697602225902,32.31448628464641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible fish location</name>
+			<LookAt>
+				<longitude>-110.6644784373383</longitude>
+				<latitude>32.31809455857584</latitude>
+				<altitude>0</altitude>
+				<heading>75.93807393714147</heading>
+				<tilt>60.0015675205936</tilt>
+				<range>201.5313259144581</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.664813550464,32.31798542307732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sunfish source?</name>
+			<LookAt>
+				<longitude>-110.6217947497701</longitude>
+				<latitude>32.32189205220792</latitude>
+				<altitude>0</altitude>
+				<heading>75.9613612805333</heading>
+				<tilt>43.36760633916064</tilt>
+				<range>528.3056200771372</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6217947497701,32.32189205220792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible fish location</name>
+			<LookAt>
+				<longitude>-110.709759502203</longitude>
+				<latitude>32.30060683657292</latitude>
+				<altitude>0</altitude>
+				<heading>51.4784880575805</heading>
+				<tilt>50.50215772416406</tilt>
+				<range>370.1909639627453</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.709759502203,32.30060683657292,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible fish location</name>
+			<LookAt>
+				<longitude>-110.6939612884183</longitude>
+				<latitude>32.30887912221066</latitude>
+				<altitude>0</altitude>
+				<heading>51.48674000206974</heading>
+				<tilt>55.59206728597334</tilt>
+				<range>272.7791648985588</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6944635101411,32.30853917009055,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible fish location</name>
+			<LookAt>
+				<longitude>-110.6716530678326</longitude>
+				<latitude>32.32063768632938</latitude>
+				<altitude>0</altitude>
+				<heading>51.49839897642113</heading>
+				<tilt>60.00120618892877</tilt>
+				<range>155.1660564392157</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.671932261296,32.32067483134175,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible fish location</name>
+			<LookAt>
+				<longitude>-110.6691578958951</longitude>
+				<latitude>32.32244914720425</latitude>
+				<altitude>0</altitude>
+				<heading>51.49973305258128</heading>
+				<tilt>60.00118622891498</tilt>
+				<range>152.6011551047547</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6695014263336,32.32307663771085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sunfish source</name>
+			<LookAt>
+				<longitude>-110.6734050334196</longitude>
+				<latitude>32.33010203083683</latitude>
+				<altitude>0</altitude>
+				<heading>51.49633603270071</heading>
+				<tilt>75.41013049026274</tilt>
+				<range>321.9586786292617</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6746472677834,32.32938089077724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Possible fish location</name>
+			<LookAt>
+				<longitude>-110.6689043717519</longitude>
+				<latitude>32.33670412447191</latitude>
+				<altitude>0</altitude>
+				<heading>42.7995932668386</heading>
+				<tilt>49.98475184075089</tilt>
+				<range>132.0350515292743</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6691989635665,32.33666270464514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sunfish source</name>
+			<LookAt>
+				<longitude>-110.6976671959648</longitude>
+				<latitude>32.31473545894085</latitude>
+				<altitude>0</altitude>
+				<heading>42.78590877675803</heading>
+				<tilt>38.61413512110557</tilt>
+				<range>1019.735021535694</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-pushpin1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6981609164187,32.31463752639032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Slot canyon</name>
+			<LookAt>
+				<longitude>-110.6643349060904</longitude>
+				<latitude>32.27149471125668</latitude>
+				<altitude>0</altitude>
+				<heading>42.88195694108824</heading>
+				<tilt>10.62091176363406</tilt>
+				<range>6525.574040534164</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_arrow</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-110.6646285783833,32.2649596933244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Water shed end</name>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-110.6330679019254,32.3261983148808,0 -110.61870596961,32.32279052548542,0 -110.6188387112634,32.32239049030639,0 -110.6189208022046,32.32204216166709,0 -110.6189893576816,32.32183157953025,0 -110.6190477255009,32.32155209478865,0 -110.619110702862,32.32126700590977,0 -110.6191439817907,32.32107559825823,0 -110.6191851497174,32.32086075813771,0 -110.6192270535172,32.32064647928298,0 -110.61938294334,32.32012579239396,0 -110.6194723162367,32.31986850377227,0 -110.6195068310057,32.31968299529589,0 -110.6195342289078,32.3195187383308,0 -110.6196003299244,32.31932374896959,0 -110.619673775166,32.31910967713279,0 -110.6197361961533,32.31900518155827,0 -110.6198588772657,32.31887594981684,0 -110.619935139833,32.31880414659268,0 -110.6200752535351,32.31862038079372,0 -110.6202190435478,32.31842403393507,0 -110.6203895852126,32.31822138379239,0 -110.6205102217983,32.31808224478335,0 -110.6205616577825,32.31799821692977,0 -110.6206919276606,32.31781969185624,0 -110.6208943475676,32.31755618808113,0 -110.6209991503469,32.31744246505991,0 -110.6211889569947,32.31727387860246,0 -110.6214545058965,32.31706881153243,0 -110.6215719295726,32.31697168249162,0 -110.6217883179412,32.31674778714108,0 -110.6219002517278,32.31665561706454,0 -110.6222802899035,32.31652872132454,0 -110.6225710293993,32.3162610868306,0 -110.6227983878166,32.31617411727686,0 -110.6229086574166,32.3161431298142,0 -110.6231645063769,32.31611289007137,0 -110.6232933683546,32.3160834289353,0 -110.623418806882,32.31607535932243,0 -110.6235475420795,32.3160296745237,0 -110.6236102748515,32.31601842600665,0 -110.623797558437,32.31597733127003,0 -110.6239386329165,32.31599871470906,0 -110.6239986934021,32.31601699219004,0 -110.6241571661023,32.31612219618935,0 -110.6241701018148,32.31629573103107,0 -110.6241422712626,32.31644044631367,0 -110.6242020021688,32.31652485395838,0 -110.6242666137003,32.31650442214455,0 -110.6243949752515,32.31646535405093,0 -110.6248151191554,32.31637575187408,0 -110.6251013432451,32.31626490192335,0 -110.6251822944373,32.31624191922302,0 -110.6253027547795,32.31619957172084,0 -110.6253834458954,32.31618667302553,0 -110.6254839933237,32.31617395093488,0 -110.6256010091524,32.31611235991061,0 -110.6258503125536,32.31601776742339,0 -110.6259724660326,32.31589184715454,0 -110.6260629943116,32.31584506004591,0 -110.6261196042378,32.31583830648114,0 -110.6262241135241,32.31577187010819,0 -110.6263081525279,32.3157066029376,0 -110.6264070552257,32.31552494601416,0 -110.6264912432761,32.3154872472874,0 -110.6265588307906,32.3153671503901,0 -110.6265838612652,32.31531215000512,0 -110.6266740726969,32.3151479045767,0 -110.6267320699355,32.31509238824305,0 -110.6268203913038,32.31502377571631,0 -110.626830072564,32.31498919837743,0 -110.626950710473,32.31498882937075,0 -110.6270795767366,32.31501737445026,0 -110.6271447699532,32.31499363265606,0 -110.6272624050973,32.31504018764853,0 -110.6273488224478,32.31502994687916,0 -110.6274350146242,32.3150197332368,0 -110.6275012341603,32.31500187745713,0 -110.6276263713836,32.31500660582363,0 -110.6277008192506,32.3149664579372,0 -110.6277910116104,32.31498091915032,0 -110.6278654113873,32.31499802174599,0 -110.627921024619,32.31505896585216,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
